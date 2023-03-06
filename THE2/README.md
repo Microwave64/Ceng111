@@ -1,4 +1,4 @@
-This is my first homework that I have struggle to do in my Department.
+This is my first homework that I have struggle to do in my department.
 In this homework, I am expected to write a code which calculates the area between a rectangle and the x axis by using conditional statements. 
 Also, there is lots of restrictions there, such as no function, library, or iteration statements etc.
 I solved this problem by generalizing the problem by separate it three different subconditions which are based on the locations of two points are middle in terms of x values.
