@@ -1,2 +1,2 @@
 # Ceng111
-My First Steps in Computer Science
+My First Steps in Computer Science via python
