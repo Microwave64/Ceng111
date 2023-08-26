@@ -1,4 +1,4 @@
-#First Internship in Computer Science.
+# Introduction to Computer Science and Progressing
 I have worked in IT team of Meteksan Matbaa as an intern in July - August 2023.
 I have took part in a project of this department 
 Our responsiblity in this project is, creating a program which can estimate future values of wanted datas and write them into a excel table.
