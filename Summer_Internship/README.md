@@ -6,6 +6,6 @@ Firstly, as a team we get the wanted data related with publishing in Turkey by W
 Then, we create a mathematical model of estimations, such as linear regression so on.
 After that, via application of Machine Learning based library sklearn, data processing libraries like pandas, numpy, seaborn; we create the estimator program derived from the mathematical models.
 Finally, we respresented our program to the manager, and director of department.
-I am happy to being a part of this company and share this program with you via permission.
+I am happy to being a part of this company and share this effective program with you via permission of company.
 Please do not hesitate to share your comments and questions.
 You can contact via email.
